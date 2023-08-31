@@ -1,5 +1,4 @@
 # Python Chatbot
-Hello, and welcome to Python Chatbot! This program was created by Kapilesh Pennichetty and Sanjay Balasubramanian. Through user interaction, it can do the following:
 
 - Retrieve the summary of a Wikipedia article
 - Find the weather of any location, automatically by finding the user's location using their external IP address*, or manually by prompting the user to enter a city
@@ -54,8 +53,6 @@ Then, download this repository, and run the "main.py" file to start interacting 
 
 Thank you for using Python Chatbot! We hope you enjoy using it!
 
-# Sources
-**Special thanks to Mr. Bailey Hulsey for his contributions and for sharing his knowledge of computer science to noobs like us!**
 
 - Wikipedia API and Documentation: https://github.com/martin-majlis/Wikipedia-API
 - Wikipedia: https://wikipedia.org
